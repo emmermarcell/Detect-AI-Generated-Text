@@ -14,7 +14,7 @@ At the forefront of academic concerns about LLMs is their potential to enable pl
 
 ## Aims
 
-Our team will aim to reach the goal of the aforementioned competition, in effect to create a model that can detect and distinguish AI-generated text from human-written one. We will try to train some models with different underlying categorizers compare their performances and formulate some conclusions about their usability and potential drawbacks. We will attempt to create a data augmentation pipeline for the AI-generated texts, i.e. a model that based on some prompts will write a short essay using the principles of LLM. We would also like to host our results on a web server like Glitch.com with a complete API to make it available for everyone and open it for potential development if there is anybody interested in our work.
+Our team will aim to reach the goal of the aforementioned competition, in effect to create a model that can detect and distinguish AI-generated text from human-written one. We will try to train some models with different underlying categorizers compare their performances and formulate some conclusions about their usability and potential drawbacks. We will attempt to create a data augmentation pipeline for the AI-generated texts, i.e. a model that based on some prompts will write a short essay using the principles of ~~LLM. We would also like to host our results on a web server like Glitch.com with a complete API to make it available for everyone and open it for potential development if there is anybody interested in our work.~~ (We dropped this path for the moment due to technical issues.)
 
 ## Further development
 

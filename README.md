@@ -6,6 +6,8 @@ Our team's solution for the Kaggle competition: [LLM - Detect AI-Generated Text]
 
 In recent years, large language models (LLMs) have become increasingly sophisticated, capable of generating text that is difficult to distinguish from human-written text. In this competition, we hope to foster open research and transparency on AI detection techniques applicable in the real world.
 
+![](img/flow.png)
+
 ## Introduction
 
 We aim to build a model that identifies which essay was written by middle and high school students, and which was written using a large language model (LLM). With the spread of LLMs, many people fear they will replace or alter work that would usually be done by humans. Educators are especially concerned about their impact on students’ skill development, though many remain optimistic that LLMs will ultimately be a useful tool to help students improve their writing skills.
